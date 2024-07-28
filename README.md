@@ -4,17 +4,14 @@
 application web fullstack intégrant Spring et React pour déployer un Chat Bot utilisant un système RAG (Retrieval-Augmented Generation) avec les modèles de langage LLMs, tels que Llama3 et OpenAI. Le backend est implémenté avec Spring AI, tandis que le frontend utilise React et VAADIN pour l'interface utilisateur.
 
 
-## Page personnes
+## Overview
 
 <img src="/images/image2.png">
+<img src="/images/image1.jpeg">
 
-## Page personnes
+<img src="/images/image4.jpeg">
 
-<img src="/images/image3.png">
 
-## Page de chat
-
-<img src="/images/image.png">
 
 
 
